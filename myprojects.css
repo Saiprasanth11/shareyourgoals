@@ -1,0 +1,48 @@
+body{
+    background-color: #fcfeff;
+}
+a{
+    text-decoration: none;
+}
+
+.empty_project{
+    margin-top: 3%;
+}
+
+label{
+    display: block;
+    float: left;
+    margin: 0px 30px;
+    font-weight: bold;
+    font-size: x-large;
+}
+.form{
+    margin: 0px 190px;
+    color: #06b8f4;
+}
+
+.create_project{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color: #06b8f4;
+    -webkit-text-stroke: 2px black;
+}
+.submit_button{
+    display:block; 
+    float:right;
+     padding: 5px 10px;
+     background-color: #06b8f4;
+     color: white;
+}
+.reset_button{
+    display: block;
+    float: right;
+    padding: 5px 10px;
+    margin-left:20px;
+    background-color: #06b8f4;
+    color: white;
+}
+input{
+font-size:10px
+}

@@ -1,0 +1,57 @@
+.plus_button{
+   position: fixed;
+   background-color:#39b0e3;
+   padding: 12px 20px;
+   border: none;
+   color: white;
+   left: 1400px;
+   top: 600px;
+    font-size: 30px;
+}
+
+.center-div .card{
+    width: 850px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.header{
+    display: grid;
+    justify-items: center;
+    
+}
+.branch{
+    font-weight: bold;
+    padding: 10px;
+}
+.project_title{
+    font-weight: 400;
+}
+.share1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.share1 img{
+    height: 70px;
+    margin: 0 40px;
+}
+.share1 .branch{
+    margin: 0 20px;
+}
+a{
+    text-decoration: none   ;
+}
+.conclusion {
+    margin-top:10px;
+}
+
+.dropdown {
+        position: absolute;
+        top: 100px;
+}
+.dropdown-item:hover{
+    cursor:pointer;
+}
+.dropdownBtn{
+    font-size: 25px;
+}
